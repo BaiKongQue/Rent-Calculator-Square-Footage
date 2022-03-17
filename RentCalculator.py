@@ -1,4 +1,3 @@
-
 class RentCalculator:
     """
     API to interact and calculate how much each person pays what for rent
